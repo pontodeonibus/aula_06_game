@@ -1,6 +1,6 @@
 # Aula 7 - Game da Aleatoridade🚀
 
-Jogo onda você deve acertar o número que a maquina irar gerar de forma aleatória
+Jogo onda você deve acertar o número que a maquina irá gerar de forma aleatória
 
 # 🔌Como fazer funcionar na sua máquina:
 
